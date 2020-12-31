@@ -1,0 +1,12 @@
+# option to:
+    start game...ok
+    pause game... ok
+    retry after fail... ok
+    change theme... ok
+    change difficulty... ok
+# theme options:
+    white
+    dark
+    grassland
+
+#
